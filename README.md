@@ -5,7 +5,7 @@ Pre-requisitos:
   - Permissões adequadas na assinatura
 
 Cuidados
-  - Cuidado ao criar o recurso pois pode gerar custos financeiros acima do esperado ou de remover o serviço em caso de gratuidade e o poerído de testes expirar.
+  - Cuidado ao criar o recurso pois pode gerar custos financeiros acima do esperado, ou, se esquecer de remover o serviço em caso de gratuidade e o poerído de testes expirar.
 
 
 ## Passo a Passo da Configuração
